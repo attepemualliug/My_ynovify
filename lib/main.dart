@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ynov_ify/music.dart';
+import 'package:My_ynovify/music.dart';
 import 'package:just_audio/just_audio.dart';
 
 const Color principal = Color.fromARGB(255, 66, 255, 0);
